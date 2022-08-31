@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayAssign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YangHui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeword09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.ArrayAdd">
+  <component name="RunManager" selected="应用程序.Homework04">
     <configuration name="ArrayAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayAdd" />
       <module name="java-practice" />
@@ -66,15 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homeword09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homeword09" />
+    <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework04" />
       <module name="java-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework08" />
+    <configuration name="YangHui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YangHui" />
       <module name="java-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Homework04" />
+        <item itemvalue="应用程序.YangHui" />
         <item itemvalue="应用程序.ArrayAdd" />
         <item itemvalue="应用程序.ArrayReduce" />
         <item itemvalue="应用程序.ArrayAssign" />
-        <item itemvalue="应用程序.Homeword09" />
-        <item itemvalue="应用程序.Homework08" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +104,9 @@
       <workItem from="1661590759370" duration="254000" />
       <workItem from="1661591025092" duration="2611000" />
       <workItem from="1661652695619" duration="7005000" />
-      <workItem from="1661744859267" duration="6043000" />
+      <workItem from="1661744859267" duration="6703000" />
+      <workItem from="1661824796036" duration="5530000" />
+      <workItem from="1661937121056" duration="790000" />
     </task>
     <servers />
   </component>

@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Homework04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YangHui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeword09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +103,8 @@
       <workItem from="1661652695619" duration="7005000" />
       <workItem from="1661744859267" duration="6703000" />
       <workItem from="1661824796036" duration="5530000" />
-      <workItem from="1661937121056" duration="790000" />
+      <workItem from="1661937121056" duration="934000" />
+      <workItem from="1662016044029" duration="595000" />
     </task>
     <servers />
   </component>

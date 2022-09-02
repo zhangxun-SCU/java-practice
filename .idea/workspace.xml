@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/recursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +41,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Homework04">
+  <component name="RunManager" selected="应用程序.recursion">
     <configuration name="ArrayAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayAdd" />
-      <module name="java-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayAssign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAssign" />
       <module name="java-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion" />
+      <module name="java-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.recursion" />
         <item itemvalue="应用程序.Homework04" />
         <item itemvalue="应用程序.YangHui" />
         <item itemvalue="应用程序.ArrayAdd" />
         <item itemvalue="应用程序.ArrayReduce" />
-        <item itemvalue="应用程序.ArrayAssign" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +105,8 @@
       <workItem from="1661744859267" duration="6703000" />
       <workItem from="1661824796036" duration="5530000" />
       <workItem from="1661937121056" duration="934000" />
-      <workItem from="1662016044029" duration="595000" />
+      <workItem from="1662016044029" duration="1139000" />
+      <workItem from="1662088375231" duration="7973000" />
     </task>
     <servers />
   </component>

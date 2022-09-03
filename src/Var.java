@@ -7,7 +7,7 @@ public class Var {
         System.out.println(b);
         int age = 30;
         double score = 88.9;
-        char gender = '男';
+        char gender = 'n';
         String name = "name";
         byte i = 1;
     }

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursion.java" afterDir="false" />
+    <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Var.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Var.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YangHui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YangHui.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.recursion">
-    <configuration name="ArrayAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAdd" />
-      <module name="java-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.YangHui">
     <configuration name="ArrayReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayReduce" />
       <module name="java-practice" />
@@ -58,6 +53,13 @@
     </configuration>
     <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework04" />
+      <module name="java-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Var" />
       <module name="java-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.recursion" />
-        <item itemvalue="应用程序.Homework04" />
-        <item itemvalue="应用程序.YangHui" />
-        <item itemvalue="应用程序.ArrayAdd" />
-        <item itemvalue="应用程序.ArrayReduce" />
+        <item itemvalue="Application.YangHui" />
+        <item itemvalue="Application.recursion" />
+        <item itemvalue="Application.Var" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +106,20 @@
       <workItem from="1661824796036" duration="5530000" />
       <workItem from="1661937121056" duration="934000" />
       <workItem from="1662016044029" duration="1139000" />
-      <workItem from="1662088375231" duration="7973000" />
+      <workItem from="1662088375231" duration="9539000" />
+      <workItem from="1662197721935" duration="91000" />
+      <workItem from="1662197823086" duration="214000" />
+      <workItem from="1662198049952" duration="167000" />
+      <workItem from="1662198226019" duration="49000" />
+      <workItem from="1662198285083" duration="53000" />
+      <workItem from="1662198347727" duration="553000" />
+      <workItem from="1662198912030" duration="286000" />
+      <workItem from="1662199266872" duration="80000" />
+      <workItem from="1662199357194" duration="125000" />
+      <workItem from="1662199492884" duration="61000" />
+      <workItem from="1662199563565" duration="133000" />
+      <workItem from="1662199707037" duration="39000" />
+      <workItem from="1662199754728" duration="83000" />
     </task>
     <servers />
   </component>
@@ -123,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

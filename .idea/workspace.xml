@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Var.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Var.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YangHui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YangHui.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
@@ -43,14 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.YangHui">
-    <configuration name="ArrayReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayReduce" />
-      <module name="java-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.recursion">
     <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework04" />
       <module name="java-practice" />
@@ -79,10 +72,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="java-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.YangHui" />
         <item itemvalue="Application.recursion" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.YangHui" />
         <item itemvalue="Application.Var" />
       </list>
     </recent_temporary>
@@ -119,7 +120,16 @@
       <workItem from="1662199492884" duration="61000" />
       <workItem from="1662199563565" duration="133000" />
       <workItem from="1662199707037" duration="39000" />
-      <workItem from="1662199754728" duration="83000" />
+      <workItem from="1662199754728" duration="183000" />
+      <workItem from="1662199949361" duration="562000" />
+      <workItem from="1662200525990" duration="50000" />
+      <workItem from="1662200590252" duration="166000" />
+      <workItem from="1662200768866" duration="39000" />
+      <workItem from="1662200815267" duration="4000" />
+      <workItem from="1662200831019" duration="254000" />
+      <workItem from="1662201098209" duration="242000" />
+      <workItem from="1662201354922" duration="53000" />
+      <workItem from="1662260824273" duration="1811000" />
     </task>
     <servers />
   </component>

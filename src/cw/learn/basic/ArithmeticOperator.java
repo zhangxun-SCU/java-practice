@@ -1,3 +1,5 @@
+package cw.learn.basic;
+
 public class ArithmeticOperator {
     public static void main(String[] args){
         int a = 1;

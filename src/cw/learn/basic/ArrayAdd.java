@@ -1,3 +1,5 @@
+package cw.learn.basic;
+
 import java.util.Scanner;
 
 public class ArrayAdd {

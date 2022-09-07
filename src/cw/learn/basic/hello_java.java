@@ -1,5 +1,6 @@
+package cw.learn.basic;
 
-//public class hello_java 表示这是一个公共的类·
+//public class cw.learn.basic.hello_java 表示这是一个公共的类·
 public class hello_java {
 
 //    一个main方法，执行入口

@@ -1,3 +1,5 @@
+package cw.learn.basic;
+
 public class Boolean {
     public static void main(String[] args){
         boolean isPass = true;

@@ -1,4 +1,4 @@
-// 向升序数组中添加元素，保持升序
+package cw.learn.basic;// 向升序数组中添加元素，保持升序
 import java.util.Scanner;
 public class Homework04 {
     public static void main(String[] args){

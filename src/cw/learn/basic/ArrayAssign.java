@@ -1,3 +1,5 @@
+package cw.learn.basic;
+
 public class ArrayAssign {
     public static void main(String[] args){
         int[] arr1 = {1, 2, 3};

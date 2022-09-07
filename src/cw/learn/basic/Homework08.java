@@ -1,3 +1,5 @@
+package cw.learn.basic;
+
 public class Homework08 {
     public static void main(String[] args){
         double sum = 0;

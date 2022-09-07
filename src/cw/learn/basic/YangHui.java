@@ -1,3 +1,5 @@
+package cw.learn.basic;
+
 public class YangHui {
     public static void main(String[] args){
         int[][] arr = new int[10][];

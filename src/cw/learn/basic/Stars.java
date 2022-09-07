@@ -1,3 +1,5 @@
+package cw.learn.basic;
+
 public class Stars {
     //    空心金字塔
     public static void main(String[] args) {

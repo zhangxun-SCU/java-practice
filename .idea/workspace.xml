@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/ExtendsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Graduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DpZ0tlgy06FHVzloLRfWab4FFj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,30 +48,36 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Homework04">
-    <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework04" />
+  <component name="RunManager" selected="应用程序.ExtendsList">
+    <configuration name="ExtendsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.advanced.ExtendsList" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cw.learn.basic.Var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.basic.Var" />
       <module name="java-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Var" />
+    <configuration name="cw.learn.basic.YangHui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.basic.YangHui" />
       <module name="java-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YangHui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YangHui" />
-      <module name="java-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion" />
+    <configuration name="cw.learn.basic.recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.basic.recursion" />
       <module name="java-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,6 +90,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ExtendsList" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -123,7 +141,10 @@
       <workItem from="1662384960273" duration="22000" />
       <workItem from="1662384993302" duration="674000" />
       <workItem from="1662473636445" duration="615000" />
-      <workItem from="1662523678597" duration="359000" />
+      <workItem from="1662523678597" duration="3062000" />
+      <workItem from="1662626662223" duration="792000" />
+      <workItem from="1662629193140" duration="2166000" />
+      <workItem from="1662685452430" duration="1528000" />
     </task>
     <servers />
   </component>

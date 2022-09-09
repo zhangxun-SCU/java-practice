@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/ExtendsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Graduate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/learn/advanced/ExtendsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/advanced/ExtendsList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="应用程序.ExtendsList">
     <configuration name="ExtendsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw.learn.advanced.ExtendsList" />
@@ -144,7 +140,7 @@
       <workItem from="1662523678597" duration="3062000" />
       <workItem from="1662626662223" duration="792000" />
       <workItem from="1662629193140" duration="2166000" />
-      <workItem from="1662685452430" duration="1528000" />
+      <workItem from="1662685452430" duration="4569000" />
     </task>
     <servers />
   </component>

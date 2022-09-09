@@ -6,6 +6,7 @@ public class ExtendsList {
         System.out.println(son.name);
 //        son.age.
         System.out.println(son.hobby);
+
     }
 }
 
@@ -22,6 +23,9 @@ class Farther extends Grandpa{
 
 class Son extends Farther{
     String name = "Son";
+//    public void Say(){
+//        super.
+//    }
 }
 
 

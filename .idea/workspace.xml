@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/advanced/PloyArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw/learn/advanced/ExtendsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/advanced/ExtendsList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +44,22 @@
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.ExtendsList">
+  <component name="RunManager" selected="应用程序.PloyArray">
     <configuration name="ExtendsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw.learn.advanced.ExtendsList" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PloyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.advanced.PloyArray" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -72,13 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cw.learn.basic.recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.basic.recursion" />
-      <module name="java-practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="java-practice" />
@@ -88,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PloyArray" />
         <item itemvalue="应用程序.ExtendsList" />
       </list>
     </recent_temporary>
@@ -140,7 +147,7 @@
       <workItem from="1662523678597" duration="3062000" />
       <workItem from="1662626662223" duration="792000" />
       <workItem from="1662629193140" duration="2166000" />
-      <workItem from="1662685452430" duration="4569000" />
+      <workItem from="1662685452430" duration="6656000" />
     </task>
     <servers />
   </component>

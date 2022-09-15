@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/AverageScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/PrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/smallchange/SmallChangeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/smallchange/SmallChangeOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/smallchange/SmallChangeSys.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/learn/advanced/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/advanced/Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.PrimeNum">
-    <configuration name="AverageScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.AverageScore" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.learn.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.SmallChangeApp">
     <configuration name="Chicken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Chicken" />
       <module name="java-practice" />
@@ -74,21 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtendsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.advanced.ExtendsList" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.learn.advanced.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PloyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.advanced.PloyArray" />
+    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.advanced.Encapsulation" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +87,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallChangeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.smallchange.SmallChangeApp" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.smallchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallChangeSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.smallchange.SmallChangeSys" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.smallchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.SmallChangeApp" />
+        <item itemvalue="应用程序.SmallChangeSys" />
+        <item itemvalue="应用程序.Encapsulation" />
         <item itemvalue="应用程序.PrimeNum" />
         <item itemvalue="应用程序.Chicken" />
-        <item itemvalue="应用程序.AverageScore" />
-        <item itemvalue="应用程序.PloyArray" />
-        <item itemvalue="应用程序.ExtendsList" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,9 @@
       <workItem from="1662685452430" duration="7080000" />
       <workItem from="1662708004539" duration="156000" />
       <workItem from="1663143284945" duration="1095000" />
-      <workItem from="1663158708932" duration="3639000" />
+      <workItem from="1663158708932" duration="4302000" />
+      <workItem from="1663232342456" duration="5266000" />
+      <workItem from="1663246774580" duration="4122000" />
     </task>
     <servers />
   </component>

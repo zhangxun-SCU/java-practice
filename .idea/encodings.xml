@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/cw/learn/houserent/HouseRentApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cw/learn/houserent/domain/House.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cw/learn/houserent/service/HouseService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cw/learn/houserent/utils/Utility.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cw/learn/houserent/view/HouseView.java" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

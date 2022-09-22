@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/AboutStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/MonkeyPeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/NarcissisticNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Pingpong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/CodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/SingleTon1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/SingleTon2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw/learn/houserent/view/HouseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/houserent/view/HouseView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +52,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.AboutStatic">
-    <configuration name="AboutStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.AboutStatic" />
+  <component name="RunManager" selected="应用程序.SingleTon1">
+    <configuration name="MonkeyPeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.MonkeyPeach" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NarcissisticNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.NarcissisticNumber" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleTon1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.SingleTon1" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -61,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.advanced.Encapsulation" />
+    <configuration name="SingleTon2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.SingleTon2" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.advanced.*" />
+          <option name="PATTERN" value="cw.learn.re_advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,38 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseRentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.houserent.HouseRentApp" />
+    <configuration name="number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.number" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.houserent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmallChangeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.smallchange.SmallChangeApp" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.learn.smallchange.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmallChangeSys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.smallchange.SmallChangeSys" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.learn.smallchange.*" />
+          <option name="PATTERN" value="cw.learn.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.AboutStatic" />
-        <item itemvalue="应用程序.HouseRentApp" />
-        <item itemvalue="应用程序.SmallChangeApp" />
-        <item itemvalue="应用程序.SmallChangeSys" />
-        <item itemvalue="应用程序.Encapsulation" />
+        <item itemvalue="应用程序.SingleTon1" />
+        <item itemvalue="应用程序.SingleTon2" />
+        <item itemvalue="应用程序.number" />
+        <item itemvalue="应用程序.MonkeyPeach" />
+        <item itemvalue="应用程序.NarcissisticNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +183,8 @@
       <workItem from="1663232342456" duration="5266000" />
       <workItem from="1663246774580" duration="4705000" />
       <workItem from="1663291674946" duration="10774000" />
-      <workItem from="1663494232621" duration="3610000" />
+      <workItem from="1663494232621" duration="3970000" />
+      <workItem from="1663836239732" duration="8726000" />
     </task>
     <servers />
   </component>

@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/MonkeyPeach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/NarcissisticNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Pingpong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/CodeBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/SingleTon1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/SingleTon2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Golonbottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/SomeMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/SumofNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,9 +49,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.SingleTon1">
-    <configuration name="MonkeyPeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.MonkeyPeach" />
+  <component name="RunManager" selected="应用程序.SomeMoney">
+    <configuration name="Ball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Ball" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NarcissisticNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.NarcissisticNumber" />
+    <configuration name="Golonbottle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Golonbottle" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleTon2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.SingleTon2" />
+    <configuration name="SomeMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.SomeMoney" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.re_advanced.*" />
+          <option name="PATTERN" value="cw.learn.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.number" />
+    <configuration name="SumofNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.SumofNumbers" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.SomeMoney" />
+        <item itemvalue="应用程序.Ball" />
+        <item itemvalue="应用程序.SumofNumbers" />
+        <item itemvalue="应用程序.Golonbottle" />
         <item itemvalue="应用程序.SingleTon1" />
-        <item itemvalue="应用程序.SingleTon2" />
-        <item itemvalue="应用程序.number" />
-        <item itemvalue="应用程序.MonkeyPeach" />
-        <item itemvalue="应用程序.NarcissisticNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +181,9 @@
       <workItem from="1663246774580" duration="4705000" />
       <workItem from="1663291674946" duration="10774000" />
       <workItem from="1663494232621" duration="3970000" />
-      <workItem from="1663836239732" duration="8726000" />
+      <workItem from="1663836239732" duration="9683000" />
+      <workItem from="1664179374996" duration="31000" />
+      <workItem from="1664444775785" duration="5733000" />
     </task>
     <servers />
   </component>

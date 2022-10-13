@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/atm/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/atm/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/atm/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/APerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/IDNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/ReString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Ten2N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/poker/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/poker/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/poker/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/poker/Poker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,33 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.cw.learn.homework.IDNumber">
-    <configuration name="APerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.APerson" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.learn.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AbstractAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.AbstractAnimal" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.learn.re_advanced.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.cw.learn.poker.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw.learn.atm.App" />
       <module name="java-practice" />
@@ -91,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cw.learn.homework.IDNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.IDNumber" />
+    <configuration name="ReString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.ReString" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +80,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cw.learn.homework.SomeMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.SomeMoney" />
+    <configuration name="Ten2N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Ten2N" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cw.learn.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cw.learn.poker.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.poker.App" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.poker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.test" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.re_advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.cw.learn.homework.IDNumber" />
-        <item itemvalue="应用程序.APerson" />
-        <item itemvalue="应用程序.App" />
-        <item itemvalue="应用程序.AbstractAnimal" />
-        <item itemvalue="应用程序.cw.learn.homework.SomeMoney" />
+        <item itemvalue="Application.cw.learn.poker.App" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Ten2N" />
+        <item itemvalue="Application.ReString" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +190,10 @@
       <workItem from="1664444775785" duration="6528000" />
       <workItem from="1665218323238" duration="4679000" />
       <workItem from="1665227838851" duration="5962000" />
+      <workItem from="1665233869398" duration="488000" />
+      <workItem from="1665627777717" duration="7000" />
+      <workItem from="1665654006756" duration="5491000" />
+      <workItem from="1665662819860" duration="757000" />
     </task>
     <servers />
   </component>

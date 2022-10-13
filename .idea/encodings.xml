@@ -10,6 +10,7 @@
     <file url="file://$PROJECT_DIR$/src/cw/learn/homework/NarcissisticNumber.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/homework/Pingpong.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/homework/PrimeNum.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cw/learn/homework/ReString.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/homework/SomeMoney.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/homework/SumofNumbers.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/homework/number.java" charset="UTF-8" />
@@ -18,6 +19,9 @@
     <file url="file://$PROJECT_DIR$/src/cw/learn/houserent/service/HouseService.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/houserent/utils/Utility.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/houserent/view/HouseView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cw/learn/poker/App.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cw/learn/poker/Card.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cw/learn/poker/Poker.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/re_advanced/AboutStatic.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/re_advanced/AbstractAnimal.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/cw/learn/re_advanced/CodeBlock.java" charset="UTF-8" />

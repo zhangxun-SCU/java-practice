@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/ReString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Ten2N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/poker/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/poker/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/poker/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/poker/Poker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/RectAndRound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Scores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/learn/poker/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/poker/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/learn/poker/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/poker/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/learn/poker/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/poker/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.cw.learn.poker.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.atm.App" />
+  <component name="RunManager" selected="Application.RectAndRound">
+    <configuration name="RectAndRound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.RectAndRound" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.atm.*" />
+          <option name="PATTERN" value="cw.learn.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.ReString" />
+    <configuration name="Scores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Scores" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RectAndRound" />
+        <item itemvalue="Application.Scores" />
         <item itemvalue="Application.cw.learn.poker.App" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Ten2N" />
-        <item itemvalue="Application.ReString" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +189,9 @@
       <workItem from="1665233869398" duration="488000" />
       <workItem from="1665627777717" duration="7000" />
       <workItem from="1665654006756" duration="5491000" />
-      <workItem from="1665662819860" duration="757000" />
+      <workItem from="1665662819860" duration="1191000" />
+      <workItem from="1666255718486" duration="3330000" />
+      <workItem from="1666270848167" duration="2659000" />
     </task>
     <servers />
   </component>

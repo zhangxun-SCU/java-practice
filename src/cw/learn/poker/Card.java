@@ -4,9 +4,12 @@ public class Card {
     String suite;
     String rank;
 
+    boolean FaceUp;
+
     public Card(String suite, String rank) {
         this.suite = suite;
         this.rank = rank;
+        this.FaceUp = false;
     }
 
     public String getSuite() {
@@ -28,9 +31,7 @@ public class Card {
     public int toNumber(){
         return switch (rank) {
             case "A" -> 1;
-            case "J" -> 11;
-            case "Q" -> 12;
-            case "K" -> 13;
+            case "J", "Q", "K" -> 10;
             default -> Integer.parseInt(rank);
         };
     }

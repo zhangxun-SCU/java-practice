@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Day2Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/EgSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/NumSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/NumberBlackHole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/InnerClassExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/learn/re_advanced/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day2Day">
+  <component name="RunManager" selected="Application.NumberBlackHole">
     <configuration name="Day2Day" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Day2Day" />
       <module name="java-practice" />
@@ -61,8 +65,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EgSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.EgSentence" />
+    <configuration name="InnerClassExercise (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.InnerClassExercise" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.re_advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerClassExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.InnerClassExercise" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.re_advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.NumSort" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
@@ -74,38 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectAndRound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.RectAndRound" />
+    <configuration name="NumberBlackHole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.NumberBlackHole" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cw.learn.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Scores" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.learn.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cw.learn.poker.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.poker.App" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.learn.poker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberBlackHole" />
+        <item itemvalue="Application.NumSort" />
+        <item itemvalue="Application.InnerClassExercise (1)" />
+        <item itemvalue="Application.InnerClassExercise" />
         <item itemvalue="Application.Day2Day" />
-        <item itemvalue="Application.EgSentence" />
-        <item itemvalue="Application.RectAndRound" />
-        <item itemvalue="Application.Scores" />
-        <item itemvalue="Application.cw.learn.poker.App" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +197,9 @@
       <workItem from="1666273766044" duration="893000" />
       <workItem from="1666275117895" duration="698000" />
       <workItem from="1666861509811" duration="1269000" />
-      <workItem from="1666871759433" duration="1799000" />
+      <workItem from="1666871759433" duration="2541000" />
+      <workItem from="1667468013865" duration="143000" />
+      <workItem from="1667468283265" duration="6852000" />
     </task>
     <servers />
   </component>

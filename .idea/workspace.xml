@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/learn/homework/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/final_homework/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/final_homework/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cw/learn/GUI/Draw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,21 +44,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Matrix">
-    <configuration name="MakeFood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.MakeFood" />
+  <component name="RunManager" selected="Application.GUI (1)">
+    <configuration name="GUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.final_homework.GUI" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.homework.*" />
+          <option name="PATTERN" value="cw.final_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Matrix" />
+    <configuration name="GUI (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.final_homework.GUI" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.homework.*" />
+          <option name="PATTERN" value="cw.final_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ninetable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.Ninetable" />
+    <configuration name="GUI (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.final_homework.GUI" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.homework.*" />
+          <option name="PATTERN" value="cw.final_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberBlackHole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.NumberBlackHole" />
+    <configuration name="GUI (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.final_homework.GUI" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.homework.*" />
+          <option name="PATTERN" value="cw.final_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.learn.homework.SimpleCalculator" />
+    <configuration name="GUI (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.final_homework.GUI" />
       <module name="java-practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cw.learn.homework.*" />
+          <option name="PATTERN" value="cw.final_homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Matrix" />
-        <item itemvalue="Application.SimpleCalculator" />
-        <item itemvalue="Application.MakeFood" />
-        <item itemvalue="Application.Ninetable" />
-        <item itemvalue="Application.NumberBlackHole" />
+        <item itemvalue="Application.GUI (1)" />
+        <item itemvalue="Application.GUI (5)" />
+        <item itemvalue="Application.GUI (4)" />
+        <item itemvalue="Application.GUI (3)" />
+        <item itemvalue="Application.GUI (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +208,15 @@
       <workItem from="1667468283265" duration="7008000" />
       <workItem from="1668431016341" duration="1464000" />
       <workItem from="1669031716973" duration="224000" />
-      <workItem from="1669033099409" duration="1706000" />
+      <workItem from="1669033099409" duration="2020000" />
+      <workItem from="1669203378623" duration="17000" />
+      <workItem from="1669433583209" duration="254000" />
+      <workItem from="1669433881680" duration="623000" />
+      <workItem from="1669889073395" duration="4664000" />
+      <workItem from="1669894811838" duration="3283000" />
+      <workItem from="1670681299095" duration="308000" />
+      <workItem from="1670681622545" duration="16000" />
+      <workItem from="1670763052010" duration="3312000" />
     </task>
     <servers />
   </component>
@@ -214,6 +233,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cw/learn/GUI/Draw.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

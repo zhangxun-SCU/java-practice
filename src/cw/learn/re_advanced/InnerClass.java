@@ -5,9 +5,11 @@ public class InnerClass {
         test(new IA(){
             @Override
             public void show(){
-                System.out.println("Ê¹ÓÃÄäÃûÄÚ²¿Àà´«µİÊµ²Î");
+                System.out.println("ä½¿ç”¨åŒ¿åå†…éƒ¨ç±»ä¼ é€’å®å‚");
             }
         });
+        System.out.println(animal2.getClass());
+
     }
 
     public static void test(IA ia){
@@ -16,5 +18,16 @@ public class InnerClass {
 
     interface IA{
         void show();
+    }
+
+    static Animal2 animal2 = new Animal2(){
+        void eat(){
+        }
+    };
+}
+
+class Animal2{
+    void eat(){
+
     }
 }

@@ -96,16 +96,11 @@ public class GUI extends JFrame {
             in = new File(filePath);
             out = new File(filePath + suffix);
             // 开始压缩
+            panel.updateUI();
             compressText.setText("压缩中...");
-            panel.updateUI();
-            panel.updateUI();
-            panel.updateUI();
             panel.updateUI();
             Compress.compress(in, out);
             compressText.setText("压缩完成");
-            panel.updateUI();
-            panel.updateUI();
-            panel.updateUI();
             panel.updateUI();
         }
     }
@@ -122,9 +117,6 @@ public class GUI extends JFrame {
             if(filePath == null){
                 compressText.setText("请先选择文件");
                 panel.updateUI();
-                panel.updateUI();
-                panel.updateUI();
-                panel.updateUI();
             }
             System.out.println(filePath);
             in = new File(filePath);
@@ -134,25 +126,17 @@ public class GUI extends JFrame {
             if(filePath.split("\\.").length >2){
                 suffix_2 = filePath.split("\\.")[2];
             }
-            if(suffix.equals(suffix_2)){
+            if((suffix).equals("." + suffix_2)){
                 String outFilePath = fileName + "." + suffix_1;
                 out = new File(outFilePath);
                 deCompressText.setText("解压中...");
                 panel.updateUI();
-                panel.updateUI();
-                panel.updateUI();
-                panel.updateUI();
                 Compress.decompress(in, out);
                 deCompressText.setText("解压完成");
                 panel.updateUI();
-                panel.updateUI();
-                panel.updateUI();
-                panel.updateUI();
             } else {
+                System.out.println(suffix);
                 deCompressText.setText("错误文件");
-                panel.updateUI();
-                panel.updateUI();
-                panel.updateUI();
                 panel.updateUI();
             }
         }

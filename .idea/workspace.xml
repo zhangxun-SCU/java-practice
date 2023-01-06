@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java-practice:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dbeac74-eba0-44c7-9ea5-c53a583027d6" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/src/cw/final_homework/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/final_homework/Compress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/final_homework/HuffmanTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cw/final_homework/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cw/final_homework/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/final_homework/GUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cw/final_homework/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/final_homework/HuffmanTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cw/learn/re_advanced/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cw/learn/re_advanced/InnerClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/mystey/java/java-practice/src",
+    "last_opened_file_path": "C:/mystey/java/java-practice/src/cw/final_homework/test_file",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,7 +58,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,7 +67,7 @@
       <recent name="C:\mystey\java\java-practice\src\cw\final_homework\test_file" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.InnerClass">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw.final_homework.App" />
       <module name="java-practice" />
@@ -82,19 +82,6 @@
       </method>
     </configuration>
     <configuration name="GUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cw.final_homework.GUI" />
-      <module name="java-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.final_homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GUI (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cw.final_homework.GUI" />
       <module name="java-practice" />
       <extension name="coverage">
@@ -133,13 +120,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cw.learn.re_advanced.InnerClass" />
+      <module name="java-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.learn.re_advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InnerClass" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.GUI (1)" />
         <item itemvalue="Application.GUI" />
         <item itemvalue="Application.GUI (5)" />
-        <item itemvalue="Application.GUI (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,12 @@
       <workItem from="1670681299095" duration="308000" />
       <workItem from="1670681622545" duration="16000" />
       <workItem from="1670763052010" duration="4139000" />
-      <workItem from="1670922957220" duration="13468000" />
+      <workItem from="1670922957220" duration="14338000" />
+      <workItem from="1670990168606" duration="1679000" />
+      <workItem from="1671088192808" duration="2478000" />
+      <workItem from="1671351573286" duration="609000" />
+      <workItem from="1671445729273" duration="22000" />
+      <workItem from="1672927309457" duration="2411000" />
     </task>
     <servers />
   </component>
